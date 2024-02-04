@@ -1,6 +1,4 @@
-#Şevval Alp 150119815
-#Reyyan Rana İnan 150119723
-#Melih Sinan Çubukçuoğlu 150122828
+
 # Convert the input string into a ciphered one
 
 if [ "$#" -ne 2 ]
